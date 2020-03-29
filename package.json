@@ -2,7 +2,6 @@
   "name": "firstnodeapi",
   "version": "1.0.0",
   "description": "First Node App",
-  "type": "module",
   "main": "./src/index.js",
   "author": "jlozan64 <janeth2.jl@gmail.com>",
   "license": "MIT",
